@@ -1,4 +1,0 @@
-repository "14.1 Verify Ohm-s law/14.1 Verify Ohm-s law@18968427916703@cloud"
-  path "/"
-    br "/main"
-    co "/main"
